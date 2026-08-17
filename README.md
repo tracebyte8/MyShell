@@ -7,12 +7,8 @@
 <br><br>
 
 ![C](https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-GNU%2FLinux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![POSIX](https://img.shields.io/badge/POSIX-API-007ACC?style=for-the-badge)
 ![System Calls](https://img.shields.io/badge/System-Calls-8A2BE2?style=for-the-badge)
 ![System Programming](https://img.shields.io/badge/System-Programming-FF6F00?style=for-the-badge)
-![GNU Readline](https://img.shields.io/badge/GNU-Readline-228B22?style=for-the-badge&logo=gnu&logoColor=white)
-![MIT License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
 
 </p>
 
@@ -100,7 +96,6 @@ myshell> echo hello | cat
 - Environment variables
 - Wildcards (`*`)
 - Built-in commands ( `export`, `unset`, `env`)
-- HTML/CSS project documentation
 
 ---
 

@@ -88,16 +88,7 @@ myshell> echo hello | cat
 ---
  ### **About** myshell> ./test.c
 - before you run the shell , compile your file you want to run , like test.c in terminal after that you can use `./test.c` , it should be in current directory .
----
 
-## Future Work
-
-- Background execution (`&`)
-- Environment variables
-- Wildcards (`*`)
-- Built-in commands ( `export`, `unset`, `env`)
-
----
 
 ## License
 

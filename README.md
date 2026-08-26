@@ -82,7 +82,6 @@ myshell> cat < output.txt
 
 myshell> history
 
-
 myshell> echo hello | cat
 ```
 ---

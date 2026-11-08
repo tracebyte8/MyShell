@@ -26,6 +26,7 @@ SRC = \
 	commands/mkdir.c \
 	commands/history.c \
 	commands/run.c \
+	commands/rename.c \
 	commands/touch.c
 
 # ======================================================

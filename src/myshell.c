@@ -45,6 +45,7 @@ int main(void)
             } 
             builtin_command(args, argc);
             execute(args);
+            rename_myfile(args);
         }
 
         mytouch(args);

@@ -13,6 +13,7 @@
 #include "tokeninzer.h"
 #include "execute_pipe.h"
 #include "run.h"
+#include "rename.h"
 
 
 #endif

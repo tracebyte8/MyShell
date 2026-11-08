@@ -83,6 +83,10 @@ myshell> cat < output.txt
 myshell> history
 
 myshell> echo hello | cat
+
+myshell> pwd
+
+myshell> cd
 ```
 ---
  ### **About** myshell> ./test.c

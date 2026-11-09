@@ -34,6 +34,7 @@ This project is still under development, and more features will be added over ti
 - `touch`
 - `mkdir`
 - `history`
+- `rename` 
 - ` ./ ` ( run process )
 
 ### Redirection
@@ -87,6 +88,8 @@ myshell> echo hello | cat
 myshell> pwd
 
 myshell> cd
+
+myshell> rename
 ```
 ---
  ### **About** myshell> ./test.c

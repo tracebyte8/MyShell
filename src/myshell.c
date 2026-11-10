@@ -1,5 +1,6 @@
+// this the main of the myshell 
+// first we set the signla handler , then spilt the input , we check if there pipe signe '|' , then execute commands .
 #include "myshell.h"
-
 #define MAX_ARGS 256
 
 int main(void)
@@ -33,7 +34,6 @@ int main(void)
 
 
         int pipe_index = check_pipe(args);
-
         if (pipe_index != -1)
         {
             execute_pipe(args, pipe_index);
